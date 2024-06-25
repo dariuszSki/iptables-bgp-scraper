@@ -4,7 +4,7 @@ to distributes these service prefixes out to neighbors. It utilizes gobgp server
 configures it using gobgp apis. The open source project can be found at [gobgp github](https://github.com/osrg/gobgp)
 
 **Prerequisites**
-
+[!IMPORTANT]
 The configuration file that needs to be created for the bgp speaker. The minimum file content must be as follows:
 
 ```toml
